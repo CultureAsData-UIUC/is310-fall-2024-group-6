@@ -128,3 +128,14 @@ Some earlier digital projects related to children's literature, such as The Rose
 8. Can you find any examples of free vs. proprietary digital libraries or archives for your area of focus? How do these resources differ in terms of access? 
 
    There are plenty of examples of both free and proprietary digital libraries related to literature and texts. Some examples of free digital libraries are project gutenberg, internet archive, HathiTrust Digital Library, and Google Books. All of these libraries offer a vast collection of free books and offer open access to the public. You can read books and texts online or even download texts for later. Some examples of proprietary digital libraries are JSTOR and ProQuest. Both of these are not free and accessible to anyone, and there are plenty of other sites that also require a membership or subscription in order to gain access to the materials in the database. They differ in terms of access in multiple significant ways. The free libraries are accessible to the public and usually focus on texts that are in the public domain or freely licensed. The users don’t have to worry about paying for access, registering, or affiliation with an institution. On the other hand, proprietary libraries do require a subscription or affiliation with an institution. This limits the availability to only certain and desired users, such as maybe students, professors, researchers, or something else.They usually have access to more recent publications and copyrighted work.
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
