@@ -12,18 +12,18 @@ Inclusion/Exclusion Criteria: We prioritized well-known children’s books that 
 
 The dataset includes the following fields:
 
-Book Title: Title of the children's book.
+1) Book Title: Title of the children's book.
 
-Author: The author's name (if available).
+2) Author: The author's name (if available).
 
-Language: Language in which the book is written.
+3) Language: Language in which the book is written.
 
-Date Published: The original publication date or date range if the exact year was unavailable.
+4) Date Published: The original publication date or date range if the exact year was unavailable.
 
-Contributed By: The library or contributor responsible for making the book accessible.
+5) Contributed By: The library or contributor responsible for making the book accessible.
 
-Archive: The archive where the book is hosted (either ICDL or Internet Archive Children's Library).
+6) Archive: The archive where the book is hosted (either ICDL or Internet Archive Children's Library).
 
-Genre: Genre classification of the book (e.g., Fairy Tale, Sci-Fi, Folklore).
+7) Genre: Genre classification of the book (e.g., Fairy Tale, Sci-Fi, Folklore).
 
 This dataset provides a range of children’s literature across genres, languages, and time periods, offering insight into the evolution of children's literature and the types of stories preserved in these archives.
