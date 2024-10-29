@@ -29,8 +29,15 @@ The dataset includes the following fields:
 This dataset provides a range of children’s literature across genres, languages, and time periods, offering insight into the evolution of children's literature and the types of stories preserved in these archives.
 
 **Responsibility and Contributions**
-Team Member	Contribution
-Cindy Liang	Led the project coordination and conducted searches within the ICDL and Internet Archive. Cindy compiled the final list of books, ensured accurate documentation, and wrote sections explaining the dataset's purpose and selection criteria.
-Member 2	Managed data entry and organization, ensuring consistency and accuracy. This member created the dataset structure, defined fields, and performed quality checks on the entries. They also compiled the links to the archived books.
-Member 3	Conducted a literature review to enrich the dataset's context, exploring cultural representation in children's literature. They provided insights for the inclusion criteria and documented data collection challenges faced during the research.
-Member 4	Focused on documentation, compiling the final write-up and ensuring clarity in describing the data collection process. They coordinated feedback and revisions, citing relevant class readings to support decisions made throughout the project.
+
+
+Francis A.	Led the project coordination and conducted searches within the ICDL and Internet Archive. Cindy compiled the final list of books, ensured accurate documentation, and wrote sections explaining the dataset's purpose and selection criteria.
+
+
+Lucas W.	Managed data entry and organization, ensuring consistency and accuracy. This member created the dataset structure, defined fields, and performed quality checks on the entries. They also compiled the links to the archived books.
+
+
+Gloria L.	Conducted a literature review to enrich the dataset's context, exploring cultural representation in children's literature. They provided insights for the inclusion criteria and documented data collection challenges faced during the research.
+
+
+Cindy L.	Focused on documentation, compiling the final write-up and ensuring clarity in describing the data collection process. They coordinated feedback and revisions, citing relevant class readings to support decisions made throughout the project.
