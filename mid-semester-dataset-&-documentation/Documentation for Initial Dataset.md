@@ -1,6 +1,6 @@
 ## Documentation for Initial Dataset: Children's Literature
 
-1. Process and Choices
+**Process and Choices**
 
 This dataset was compiled manually, drawing from two primary sources: the International Children's Digital Library (ICDL) and the Internet Archive Children's Library. The dataset includes children's literature spanning various genres, languages, and publication periods, providing a diverse snapshot of classic children's stories.
 
@@ -8,7 +8,7 @@ Data Collection Challenges: Some publication dates are listed as ranges (e.g., 1
 
 Inclusion/Exclusion Criteria: We prioritized well-known children’s books that highlight significant genres and cultural backgrounds. Stories were included based on availability in the selected archives, the quality of metadata, and relevance to children's literature themes.
 
-2. Content Description
+**Content Description**
 
 The dataset includes the following fields:
 
