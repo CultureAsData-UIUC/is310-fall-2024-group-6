@@ -1,0 +1,47 @@
+oid,message,committedDate,additions,deletions,changedFiles,login
+dc47753b4076a4446154536f980e78b8f013c65a,README.md,2024-09-10T02:31:18Z,6,4,1,GloriaLiu930
+a69293f7dd3a104d6e4524de9530e4c32adc18ff, README.md,2024-09-10T02:19:34Z,3,1,1,GloriaLiu930
+6b2fc14bfc079aef54f01e92b258f1c2ec62c4b9,README.md,2024-09-10T01:34:17Z,2,0,1,GloriaLiu930
+bec949aff57428fc5214a07539ed1811f891d073,README.md,2024-09-09T20:09:15Z,0,0,0,GloriaLiu930
+5a6eb0cec7967601304f8ee4dc846ca610b0aba7,README.md,2024-09-09T20:02:28Z,87,0,1,GloriaLiu930
+9c405bf9fc678a482ef651e8319975ee5569ef07,Update Documentation for Initial Dataset.md,2024-10-29T00:10:14Z,2,2,1,GloriaLiu930
+47829a30d89d43bc89ff687751c2fc184f1898fa,Update Documentation for Initial Dataset.md,2024-10-29T00:09:30Z,7,7,1,GloriaLiu930
+9cf69283e69da837d7f214888796d7d27db1171b,Rename Documentation for Initial Dataset to Documentation for Initial Dataset.md,2024-10-29T00:08:43Z,0,0,1,GloriaLiu930
+f95aa26fabee57c27604d1ed93f193c06ec6926c,Update Documentation for Initial Dataset,2024-10-29T00:08:17Z,1,1,1,GloriaLiu930
+03c65e0eaca5ac069b33f7b78508a3ccc8614a6a,Rename README to Documentation for Initial Dataset,2024-10-29T00:07:17Z,0,0,1,GloriaLiu930
+e896c4334d922e7d571d008b2d4944e03ed59eb6,README,2024-10-29T00:06:33Z,0,0,1,GloriaLiu930
+468c056e8e154fce94c19d21cb573d1d5734ed64,Rename Documentation for Initial Dataset to Documentation for Initial Dataset.md,2024-10-29T00:05:30Z,0,0,1,GloriaLiu930
+043e0f3b220a0049f7236b56aab6e986c430a6cb,Create Documentation for Initial Dataset,2024-10-29T00:03:42Z,29,0,1,GloriaLiu930
+157e1c5e9b89867755da453f9221c2f5a2430f9b,Update proprietary_platform_exploration.md,2024-10-15T17:11:56Z,62,0,1,GloriaLiu930
+dbee1afade80ab878eaaa908473c4db862e33dfe,Update critical-cultural-data-explorations.md,2024-09-26T05:38:21Z,45,28,1,GloriaLiu930
+93a01765e60b9a13d05f6deae7f365e7396f305f,Update critical-cultural-data-explorations.md,2024-09-26T05:14:06Z,20,19,1,GloriaLiu930
+fab033c75050226ea3d7fd44a84049737f9b5dd1,README.md,2024-09-12T19:07:49Z,19,5,1,GloriaLiu930
+37f21f40c26f5d56093aea5567d2922ef6e6ed47,README.md,2024-09-10T19:11:06Z,5,5,1,GloriaLiu930
+677d974c60e7a32b798734d9b7487084919eb26c,README.md,2024-09-10T18:41:51Z,1,1,1,GloriaLiu930
+32df59d0f47559635a5c1f6864a0b48b73d7a18a,README.md,2024-09-10T18:41:03Z,8,1,1,GloriaLiu930
+3d0724ea611c550ddeeb4ca6475f7be35f294f81,Update Documentation for Initial Dataset.md,2024-10-29T04:10:28Z,12,5,1,Cindy1226
+40abc5bf7ef4c34f00ffb2c963dcd8f89a2638c1,Update Documentation for Initial Dataset.md,2024-10-29T04:07:22Z,7,0,1,Cindy1226
+a31e63765596d47eed8933793fb859692c16e0a6,Update critical-cultural-data-explorations.md,2024-09-24T19:30:28Z,68,0,1,Cindy1226
+9eec92280e507c46516947075b3415643e07835a,Create critical-cultural-data-explorations.md,2024-09-24T19:29:09Z,33,0,1,Cindy1226
+1bb1540690483f96f02a5a4147ea57d463dce2ca,Update README.md,2024-09-24T00:46:27Z,0,1,1,Cindy1226
+770611d10d7fac69782ac572f21a827cd8adccba,Update README.md,2024-09-12T15:14:00Z,1,1,1,Cindy1226
+cf22b322a6354a4886c232eaed8a11368c1fb473,Update README.md,2024-09-12T15:13:23Z,1,1,1,Cindy1226
+ca524131ece16e3f5e28ab27fc7bc33c55891ae9,Update README.md,2024-09-10T19:16:02Z,1,1,1,Cindy1226
+c0222d347cbd3557f039d506a351d9291b3a86ca,created initial dataset,2024-10-28T17:09:48Z,47,0,1,frangara
+eb8c025d42fc1cc2a27efe544ede354a9ed1952b,added reflection and licence,2024-10-15T18:12:59Z,432,0,3,frangara
+53690f3dbab3c69f859acb5f0e26361a81366f39,Add files via upload,2024-10-15T17:45:08Z,0,0,2,LucasWashor
+51c96e75b59bb70a80cbe71462fbf6e74e280412,Create data_reflection_documentation.md,2024-10-15T17:42:14Z,1,0,1,LucasWashor
+2f0cc7b1823a0dce5bc2493251530947d04dea40,Create proprietary_platform_exploration.md,2024-10-15T17:02:26Z,1,0,1,LucasWashor
+483c2d931674576aebebad024b739b050c644f84,Delete proprietary-perspectival-dataset-creation,2024-10-15T17:01:54Z,0,1,1,LucasWashor
+f4ea2b8067c067aa4bbecf9957dbdb0bab1ea4c6,Rename roprietary-perspectival-dataset-creation to proprietary-perspectival-dataset-creation,2024-10-15T16:59:30Z,0,0,1,LucasWashor
+9f881336efe4a15ffae872f2c6d469aea52aea10,Create roprietary-perspectival-dataset-creation,2024-10-15T16:58:16Z,1,0,1,LucasWashor
+7e91452a9edb5c14c6a05f18f06aebfe291bf7ce,Create Mid-Semester Dataset and Documentation,2024-10-03T19:36:19Z,1,0,1,LucasWashor
+604d3b36a9bce0209c54bafe98cb780db001efa8,Update Material part README.md,2024-09-25T03:18:05Z,10,0,1,LucasWashor
+19ef28d4eab5802e7be525f3a7f8ac9d27bb8623,Update README.md,2024-09-24T19:33:07Z,1,1,1,LucasWashor
+04f304859c0d5628e0fff5e588c9822c9a48caea,Update README.md,2024-09-24T19:32:01Z,41,1,1,LucasWashor
+19d3a81e128db5c418c93d102b01722c90f06132,Delete Mass Digitization & Digital Libraries,2024-09-24T02:20:58Z,0,60,1,LucasWashor
+a7fe3aa28e0b7917ec82d1fbd0642b9d3be87375,Created file folder for Mass Digitization & Digital Libraries,2024-09-24T02:17:25Z,60,0,1,LucasWashor
+4d8d2abff5a8c22c3fa8979830f9f3ec12cbf0ab,Initial commit,2024-09-24T04:16:08Z,91995,0,11,LucasWashor
+38a5d2f87c3c7dc0818acc41583c0f42163e272a,"Merge pull request #1 from CultureAsData-UIUC/adding-project-management-workflow
+
+Added project management workflow issue template",2024-09-10T19:41:29Z,41,0,2,LucasWashor
