@@ -87,23 +87,23 @@ This study provides a clear framework for using lexical clustering in thematic a
 
 
 ## Cindy - Social Network Analysis
-## 1. Social Network Analysis (SNA) as a Computational Method
+#### 1. Social Network Analysis (SNA) as a Computational Method
 
 Description: Social Network Analysis (SNA) is a computational method that examines relationships and structures within networks. In this context, SNA can be applied to understand the social interactions surrounding children’s fantasy literature on social media platforms. By using graph theory, where accounts (such as fans, authors, and critics) are nodes and their interactions (likes, shares, comments) are edges, SNA allows researchers to identify key figures or “influential nodes” within these discussions and explore community structures that form around fantasy literature topics.
 
 Why It’s Useful: SNA provides valuable insights into how discussions around children’s fantasy literature spread across social media. It can help identify influential users or fan pages that significantly shape discourse, reveal clusters of communities with shared interests (such as fans of particular series or characters), and highlight the pathways through which popular fantasy books or themes go viral. This information can offer cultural insight into how children’s fantasy literature is received, discussed, and adapted by different demographics and social circles.
 
-## Social Media Data as Cultural Data Type
+#### Social Media Data as Cultural Data Type
 
 Description: Social media data includes user-generated content and interactions (posts, comments, likes, and shares) on platforms like Twitter, Instagram, and Facebook, as well as metadata (such as timestamps, locations, and hashtags). For analyzing children’s fantasy literature, this data can provide a rich, real-time glimpse into public engagement with the genre, reflecting how readers discuss themes, share opinions, and participate in trends.
 
 Why It’s Useful: Social media data allows researchers to track and analyze real-time reactions to fantasy literature within children’s media, offering a unique lens on cultural trends and community dynamics. By examining popular hashtags, locations of user engagement, and interactions with content related to specific books or characters, researchers can understand how children’s fantasy stories resonate across various groups and regions. This analysis can also highlight how fantasy stories are adapted and interpreted within different cultural contexts, providing insights into the broader cultural impact and significance of children’s fantasy literature.
 
-## 2. Search for Relevant Scholarship
+#### 2. Search for Relevant Scholarship
 
 Bedi, P., & Sharma, C. (2016). Community detection in social networks. Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery, 6(3), 115–135. https://doi.org/10.1002/widm.1178
 
-## 3.Review & Summarize Selected Scholarship:
+#### 3.Review & Summarize Selected Scholarship:
 
 Bibliographic Information
 
