@@ -87,25 +87,57 @@ This study provides a clear framework for using lexical clustering in thematic a
 
 
 ## Cindy - Social Network Analysis
-Hello everyone! Today, I’ll share how Social Network Analysis (SNA) and social media data can help us explore the fantasy genre in children’s literature.
+## 1. Social Network Analysis (SNA) as a Computational Method
 
-#### Social Network Analysis (SNA)
-SNA examines relationships and structures within networks, with social media users as “nodes” and interactions (like likes or shares) as “edges.” For this project, SNA lets us map out social interactions around children’s fantasy literature—showing how fans, authors, and critics connect and engage in discussions.
+Description: Social Network Analysis (SNA) is a computational method that examines relationships and structures within networks. In this context, SNA can be applied to understand the social interactions surrounding children’s fantasy literature on social media platforms. By using graph theory, where accounts (such as fans, authors, and critics) are nodes and their interactions (likes, shares, comments) are edges, SNA allows researchers to identify key figures or “influential nodes” within these discussions and explore community structures that form around fantasy literature topics.
 
-#### Why SNA is Useful
-SNA is helpful because it reveals influential figures, like popular fan pages, and clusters or communities, such as groups of fans who follow a particular series. This allows us to see how certain fantasy books or themes go viral and how different groups engage with children’s fantasy literature.
+Why It’s Useful: SNA provides valuable insights into how discussions around children’s fantasy literature spread across social media. It can help identify influential users or fan pages that significantly shape discourse, reveal clusters of communities with shared interests (such as fans of particular series or characters), and highlight the pathways through which popular fantasy books or themes go viral. This information can offer cultural insight into how children’s fantasy literature is received, discussed, and adapted by different demographics and social circles.
 
-#### Social Media Data as Cultural Data
-Social media data includes user-generated content like posts and comments. Analyzing this data lets us track real-time reactions to children’s fantasy books and spot trends—like popular themes and characters that resonate across regions or demographics.
+## Social Media Data as Cultural Data Type
 
-#### Relevant Scholarship
-I found the paper “Community Detection in Social Networks” by Bedi and Sharma helpful. They discuss community detection methods like clustering, which we can apply to identify groups of fans with similar interests in children’s fantasy literature, giving insight into how the genre is received by different audiences.
+Description: Social media data includes user-generated content and interactions (posts, comments, likes, and shares) on platforms like Twitter, Instagram, and Facebook, as well as metadata (such as timestamps, locations, and hashtags). For analyzing children’s fantasy literature, this data can provide a rich, real-time glimpse into public engagement with the genre, reflecting how readers discuss themes, share opinions, and participate in trends.
 
-#### Project Application
-Applying SNA and community detection allows us to uncover clusters of fans and trends in children’s fantasy literature, helping us understand the genre’s cultural impact. By using community detection techniques, we can uncover clusters of fans who are passionate about certain aspects of the genre. This could help us understand the cultural impact of specific books and identify trends within fan discussions.
+Why It’s Useful: Social media data allows researchers to track and analyze real-time reactions to fantasy literature within children’s media, offering a unique lens on cultural trends and community dynamics. By examining popular hashtags, locations of user engagement, and interactions with content related to specific books or characters, researchers can understand how children’s fantasy stories resonate across various groups and regions. This analysis can also highlight how fantasy stories are adapted and interpreted within different cultural contexts, providing insights into the broader cultural impact and significance of children’s fantasy literature.
 
-#### Conclusion
-In summary, SNA and social media data provide valuable cultural insights into the online discussions around children’s fantasy literature. By studying these interactions, we can get a sense of how readers react to, adapt, and engage with fantasy literature in real-time. This project could offer insights for publishers, educators, and authors who are interested in understanding fan communities in children’s literature.
+## 2. Search for Relevant Scholarship
+
+Bedi, P., & Sharma, C. (2016). Community detection in social networks. Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery, 6(3), 115–135. https://doi.org/10.1002/widm.1178
+
+## 3.Review & Summarize Selected Scholarship:
+
+Bibliographic Information
+
+Authors: Punam Bedi, Chhavi Sharma
+
+Title: "Community detection in social networks"
+
+Publication Venue: WIREs Data Mining and Knowledge Discovery
+
+Publication Date: February 19, 2016
+
+DOI: 10.1002/widm.1178
+
+Citations: 169
+
+-Computational Method or Cultural Data Type
+The article discusses various computational methods used for community detection in social networks, which is an unsupervised learning task aimed at identifying cohesive subgroups or clusters within a larger network. The authors focus on graph-based methods where the network is represented as a graph with nodes (representing individuals) and edges (representing interactions). The article categorizes community detection methods into several approaches such as graph partitioning, clustering, and label propagation. These algorithms group nodes in a graph based on their interactions, with the goal of finding clusters where nodes are more densely connected within the group than with nodes outside the group.
+
+
+-Summary of the Argument
+The main argument of the paper is the utility of detecting communities in social networks, which has wide applications in fields like marketing, biology (e.g., protein interaction networks), and information dissemination. Community detection can help identify groups with similar preferences or behaviors, which can be used for targeted marketing, recommendation systems, and collaborative research. The paper provides an overview of various algorithms for community detection and categorizes them into different types based on graph partitioning, clustering, and overlapping communities. The authors also discuss the trade-offs between these methods in terms of computational efficiency and the quality of community detection.
+
+
+-Code and Data Availability
+The article does not provide direct links to publicly available code and data. However, it mentions the usage of standard datasets for community detection research and provides references to those datasets. Typically, datasets related to social network analysis, such as collaboration networks, co-authorship networks, and protein-protein interaction networks, are used for testing community detection algorithms.
+
+
+-Assessment of What I Found Most Interesting and Disciplinary Categorization
+What I found particularly interesting about this paper is its broad coverage of community detection algorithms and the detailed classification of methods. It provides insights into how these algorithms are applied across various domains, from social networking to biological research. I would categorize this scholarship as part of the Computational Social Sciences, as it applies computational methods to understand and analyze social structures and behaviors.
+
+
+-Potential Use for Group Project:
+For our group project on the fantasy genre of children’s literature, the community detection methods discussed in this paper could be useful if you're looking to analyze social networks around the genre, such as online communities discussing fantasy books. By applying community detection, you could uncover clusters of users with similar interests in specific fantasy subgenres, authors, or themes. This could provide insights into how the fantasy genre is discussed and understood within different groups. Furthermore, understanding these communities might help tailor content, marketing strategies, or even research in the field of children's literature.
+
 
 ## Francis - Final decision
 We decided to use **Topic Modeling** as our computational method for analyzing children's literature because it allows us to uncover hidden themes, trends, and underlying values embedded within large text collections. This approach is especially valuable for our project on Literature and Texts – Children's Literature, as it provides a structured, objective way to explore cultural messages in stories that are formative for young readers.
