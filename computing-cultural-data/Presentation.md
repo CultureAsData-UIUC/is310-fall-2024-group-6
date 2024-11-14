@@ -123,3 +123,8 @@ What I found particularly interesting about this paper is its broad coverage of 
 
 -Potential Use for Group Project:
 For our group project on the fantasy genre of children’s literature, the community detection methods discussed in this paper could be useful if you're looking to analyze social networks around the genre, such as online communities discussing fantasy books. By applying community detection, you could uncover clusters of users with similar interests in specific fantasy subgenres, authors, or themes. 
+
+## Francis - Final decision
+We decided to use **Topic Modeling** as our computational method for analyzing children's literature because it allows us to uncover hidden themes, trends, and underlying values embedded within large text collections. This approach is especially valuable for our project on Literature and Texts – Children's Literature, as it provides a structured, objective way to explore cultural messages in stories that are formative for young readers.
+
+This approach not only aligns with Digital Humanities by combining computational and literary studies, but also provides a robust framework for our project’s goal: to explore how children's literature reflects cultural values and influences young readers’ perceptions. Topic Modeling will help us objectively categorize and interpret themes within our chosen corpus, providing insights into both historical and contemporary trends in children's storytelling.
