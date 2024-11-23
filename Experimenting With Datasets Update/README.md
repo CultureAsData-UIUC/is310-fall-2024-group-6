@@ -1,6 +1,8 @@
 ### 1. Purpose of Experimentation
    
-*Exploring Data Utility:* Experimenting with your dataset allows you to assess its utility in answering your research question and to discover any limitations or gaps. By applying different computational methods, you can see how the data behaves in practice and whether it yields meaningful results.
+*Exploring Data Utility:* (Cindy)
+
+The purpose is to evaluate how well the dataset captures key aspects of the fantasy genre in children’s literature and its effectiveness in answering the research question. Experimentation helps identify recurring themes like magic, mythical creatures, or heroic quests, as well as trends such as changes in language, diversity, or storytelling styles. It also highlights gaps, such as missing demographic data on authors or underrepresented cultural elements, ensuring the dataset is robust and relevant for future research.
 
 *Informing Future Use:* The experimentation phase also helps you think about how others might use your dataset. By documenting the outcomes of your experiments, you can provide future users with insights into the dataset’s strengths, limitations, and potential applications.
 
