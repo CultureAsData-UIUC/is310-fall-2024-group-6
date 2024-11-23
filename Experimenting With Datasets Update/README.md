@@ -1,6 +1,6 @@
 ### 1. Purpose of Experimentation
    
-*Exploring Data Utility:* (Cindy)
+*Exploring Data Utility:* 
 
 The purpose is to evaluate how well the dataset captures key aspects of the fantasy genre in children’s literature and its effectiveness in answering the research question. Experimentation helps identify recurring themes like magic, mythical creatures, or heroic quests, as well as trends such as changes in language, diversity, or storytelling styles. It also highlights gaps, such as missing demographic data on authors or underrepresented cultural elements, ensuring the dataset is robust and relevant for future research.
 
