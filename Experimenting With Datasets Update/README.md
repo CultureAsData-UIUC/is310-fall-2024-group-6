@@ -12,7 +12,9 @@ The experimentation phase also helps you think about how others might use your d
 
 *Choosing Computational Methods:* 
 
-Your group will select one or more computational methods that are appropriate for your dataset. These might include text analysis, network analysis, topic modeling, or other techniques relevant to your research focus. The methods you choose should align with your research question and be capable of revealing important patterns or trends within your data. You are encouraged to consult with the Instructor about potential methods.
+The computational methods that we plan on using are Sentiment Analysis along with mapping it out with a visualization techinique. When lookoing at fantasy stories, especially children's literature, we can see that they invoke strong emotions. With the vary genres of heroism, conflict, wonder, or loss we can use sentiment analysis that can give us patterns or tones that align with our genres. These patterns can also show trends which we can align with time and see how different decades or time periods have different moods with their stories. In order to apply such things to our dataset we would have to first clean our data. Punctuation, grammar, or even unessecary words are things we can remove using python by importing the raw txt file of our data into a code we can generate. Another idea could be to use an html web scraper if applicable. After doing this we would have to choose a sentiment analysis tool. Something like the library TextBlob can help us give a sentiment polarity where -1 to +1 negative to positive can give us a numeric value for whether something is positive or not.
+
+When visualizing this, a simple Matplotlib and Seaborn code can run this. By generating word clouds or even plotting these scores on a bar chart can help us further expand our exploratory data analysis on our topic.
 
 *Applying the Methods:* 
 
