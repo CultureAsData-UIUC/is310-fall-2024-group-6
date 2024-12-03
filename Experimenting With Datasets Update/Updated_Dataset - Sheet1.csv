@@ -1,0 +1,7 @@
+,Book Title,Author,Language,Data Published,Contributed by,Archive,Genre,Sentiment,Sentiment Analysis
+,A dog's tale,Mark Twain,English,1904,Google Books,ICDL,Fiction,Positive,"Polarity: 0.1430814751188582, Subjectivity: 0.5068312144760745"
+,A plea for old Cap Collier,Irvin S. Cobb,English,n.d.,Boston Public Library,ICDL,Humor,Positive,"Polarity: 0.05580279015735616, Subjectivity: 0.481068235910400"
+,A princess of Mars,Edgar Rice Burroughs,English,1917,Google Books,ICDL,Sci-Fi,Positive,"Polarity: 0.07876795364830735, Subjectivity: 0.4934934004135820"
+,Alice in Wonderland,Lewis Carroll,English,1916,University of Maryland,Internet Archive Children's Library,Fantasy Fiction,Positive,"Polarity: 0.03982720089454523, Subjectivity: 0.49637978391790266"
+,Jack and the Giants,Unknown,English,n.d.,Unknown,Internet Archive Children's Library,Fairy Tale,Positive,"Polarity: 0.07673029882603466, Subjectivity: 0.5098846574273002"
+,Sleeping Beauty and Tales,Charles Perrault,English,1864-1870,University of California Libraries,Internet Archive Children's Library,Fairy Tale,Positive,"Polarity: 0.14403373960195107, Subjectivity: 0.5088654200938804"
