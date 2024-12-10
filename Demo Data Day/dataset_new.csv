@@ -1,0 +1,20 @@
+Book Title,Author,Data Published,Contributed by,Archive,Genre,Historical/Contemporary,Sentiment,Polarity,Subjectivity
+A dog's tale,Mark Twain,1904,Google Books,ICDL,Fiction,Historical,Positive,0.1430814751,0.5068312145
+A plea for old Cap Collier,Irvin S. Cobb,n.d.,Boston Public Library,ICDL,Humor,Historical,Positive,0.05580279016,0.4810682359
+A princess of Mars,Edgar Rice Burroughs,1917,Google Books,ICDL,Sci-Fi,Historical,Positive,0.07876795365,0.4934934004
+Alice in Wonderland,Lewis Carroll,1916,University of Maryland,Internet Archive Children's Library,Fantasy Fiction,Historical,Positive,0.03982720089,0.4963797839
+Jack and the Giants,Unknown,n.d.,Unknown,Internet Archive Children's Library,Fairy Tale,Historical,Positive,0.07673029883,0.5098846574
+Sleeping Beauty and Tales,Charles Perrault,1864-1870,University of California Libraries,Internet Archive Children's Library,Fairy Tale,Historical,Positive,0.1440337396,0.5088654201
+Cinderella,Edward Dalziel ,1864,California Digital Library,Internet Archive Children's Library,Fairy Tale,Historical,Positive,0.2327085897,0.5415064935
+Dorothy and the Wizard of Oz,Lyman Frank,1856-1919,New York Public Library,Internet Archive Children's Library,Fantasy,Historical,Positive,0.1047527113,0.5101295942
+The story of a puppet: or The adventures of Pinnochio,Carlo Collodi,1892,University of California libraries,Internet Archive Children's Library,"Fantasy, Puppets, Children's stories, Italian",Historical,Positive,0.04907462739,0.5011191311
+The story of the Three Little Pigs,Leslie L. Brooke,1904,Library of Congress,ICDL,Classic ,Historical,Positive,0.05437477114,0.4422958329
+The Night Before Christmas And Other Popular Stories For Children,Clement Clarke Moore,1903,Childrens Library,Internet Archive Children's Library,Christmas Stories,Historical,Positive,0.1187039258,0.5205752813
+Diary Of A Wimpy Kid Book 01,Jeff Kinney,03/07/2008, Internet Archive,Internet Archive Children's Library,Comedy,Contemporary,Positive,0.1022744956,0.4941499815
+Charlotte's Web,E. B. White,1952, Internet Archive,Internet Archive Children's Library,Fairy Tale,Historical,Positive,0.1171506597,0.5063421062
+The Chronicles of Narnia,C. S. Lewis,1950, Internet Archive,Internet Archive Children's Library,Fantasy,Historical,Positive,0.05405509416,0.4892121903
+"SARAH, PLAIN AND TALL",PATRICIA M.,1985, Internet Archive, Internet Archive Children's Library,Fairy Tale,Historical,Positive,0.08897603354,0.4368356343
+The book thief,Markus Zusak,2005, Internet Archive, Internet Archive Children's Library,Fairy Tale,Contemporary,Positive,0.05142052689,0.4485426699
+Wonder,Raquel Jaramillo Palacio,2012, Internet Archive,Internet Archive Children's Library,Novel,Contemporary,Positive,0.09774810314,0.4963380899
+"
+Percy Jackson and the Lightning Thief",Rick Riordan,2013, Internet Archive, Internet Archive Children's Library,Fiction,Contemporary,Positive,0.03721276052,0.4843905397
