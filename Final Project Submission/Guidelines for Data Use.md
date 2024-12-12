@@ -2,23 +2,23 @@
 
 This dataset, which contains children's fantasy literature, offers several potential scholarly applications across different fields of study, including literary analysis, cultural studies, and emotional or psychological research. 
 
-### Genre and Narrative Structure Analysis: ###  Scholars of children's literature can use this dataset to study how different themes (e.g., heroism, magic, and mythical creatures) evolve over time in the fantasy genre. By comparing sentiment trends, researchers could explore how the mood of stories changes across different time periods or how specific authors or periods affect narrative structure.
+**Genre and Narrative Structure Analysis:**  Scholars of children's literature can use this dataset to study how different themes (e.g., heroism, magic, and mythical creatures) evolve over time in the fantasy genre. By comparing sentiment trends, researchers could explore how the mood of stories changes across different time periods or how specific authors or periods affect narrative structure.
 
 - Relevant Work:
   
-### Sentiment Analysis and Emotional Tones:###  The dataset provides sentiment analysis scores that could be used to explore how emotions are conveyed in children's fantasy books. By analyzing sentiment polarity and subjectivity, researchers can investigate whether certain emotions (e.g., hope, fear, joy, or sadness) dominate within specific themes or periods.
+**Sentiment Analysis and Emotional Tones:**  The dataset provides sentiment analysis scores that could be used to explore how emotions are conveyed in children's fantasy books. By analyzing sentiment polarity and subjectivity, researchers can investigate whether certain emotions (e.g., hope, fear, joy, or sadness) dominate within specific themes or periods.
 
 - Relevant Work:
   
-### Cultural Representation and Diversity:### The dataset’s integration of diverse works of children's literature makes it a valuable resource for studying representation. Researchers can explore how different cultures and races are depicted in fantasy stories, or analyze how underrepresented groups might be reflected in or omitted from mainstream children's fantasy literature.
+**Cultural Representation and Diversity:** The dataset’s integration of diverse works of children's literature makes it a valuable resource for studying representation. Researchers can explore how different cultures and races are depicted in fantasy stories, or analyze how underrepresented groups might be reflected in or omitted from mainstream children's fantasy literature.
 
 - Relevant Work: 
 
-### Comparative Genre Studies###: This dataset can be expanded to include works from other genres (e.g., adventure, fairy tales, and science fiction) to compare the emotional tones and narrative techniques used across genres. This would offer insights into how different genres shape childhood experiences and storytelling methods.
+**Comparative Genre Studies:** This dataset can be expanded to include works from other genres (e.g., adventure, fairy tales, and science fiction) to compare the emotional tones and narrative techniques used across genres. This would offer insights into how different genres shape childhood experiences and storytelling methods.
 
 - Relevant Work:
 - 
-### Machine Learning Applications for Literary Analytics:### Researchers in computational literary studies or digital humanities can apply machine learning techniques, such as clustering, topic modeling, or predictive analytics, to examine how themes in children's fantasy literature have evolved, as well as to predict the success of books based on sentiment and narrative structures.
+**Machine Learning Applications for Literary Analytics:** Researchers in computational literary studies or digital humanities can apply machine learning techniques, such as clustering, topic modeling, or predictive analytics, to examine how themes in children's fantasy literature have evolved, as well as to predict the success of books based on sentiment and narrative structures.
 
 - Relevant Work: 
 
