@@ -8,8 +8,7 @@ This dataset, which contains children's fantasy literature, offers several poten
   
 **Sentiment Analysis and Emotional Tones:**  The dataset provides sentiment analysis scores that could be used to explore how emotions are conveyed in children's fantasy books. By analyzing sentiment polarity and subjectivity, researchers can investigate whether certain emotions (e.g., hope, fear, joy, or sadness) dominate within specific themes or periods.
 
-- Relevant Work: Kumpulainen, K., Renlund, J., Byman, J., & Wong, C. (2021). Empathetic encounters of children’s augmented storying across the human and more-than-human worlds. International Studies in Sociology of Education, 1–23. https://doi.org/10.1080/09620214.2021.1916400
-- The study could inform this exploration, as it examines the emotional range within children’s stories and its implications on child development.
+- Relevant Work:The study Empathetic encounters of children’s augmented storying across the human and more-than-human worlds by Kumpulainen, K., Renlund, J., Byman, J., & Wong, C. (2021). could inform this exploration, as it examines the emotional range within children’s stories and its implications on child development.
   
 **Cultural Representation and Diversity:** The dataset’s integration of diverse works of children's literature makes it a valuable resource for studying representation. Researchers can explore how different cultures and races are depicted in fantasy stories, or analyze how underrepresented groups might be reflected in or omitted from mainstream children's fantasy literature.
 
@@ -45,3 +44,12 @@ While the dataset offers several promising applications, there are several limit
 Future users of this dataset should be mindful of these limitations and make adjustments or clarifications as necessary. We recommend that anyone using this dataset for research purposes document the sources and limitations of the data, particularly when integrating additional metadata or applying advanced analytical methods. We also encourage expanding the dataset to include a broader variety of works to better capture diverse voices and perspectives.
 
 By being transparent about these limitations and actively working to improve the dataset, future researchers can use it as a valuable resource for understanding the evolution of children's fantasy literature and its broader cultural and emotional impacts.
+
+
+
+### Reference
+- Nikolajeva, M. (1991). From mythic to linear: Time in children's literature. Scarecrow Press.
+- Kumpulainen, K., Renlund, J., Byman, J., & Wong, C. C. (2022). Empathetic encounters of children’s augmented storying across the human and more-than-human worlds. International Studies in Sociology of Education, 31(1-2), 208-230.
+- Bishop, R. S. (1990). Mirrors, windows, and sliding glass doors. Perspectives: Choosing and Using Books for the Classroom, 6 (3). Perspectives: Choosing and using books for the classroom, 6(3), ix-xi.
+- Zipes, J. (2013). Why fairy tales stick: The evolution and relevance of a genre. Routledge.
+- Jockers, M. L. (2013). Macroanalysis: Digital methods and literary history. University of Illinois Press.
