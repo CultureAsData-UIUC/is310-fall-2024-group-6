@@ -4,23 +4,25 @@ This dataset, which contains children's fantasy literature, offers several poten
 
 **Genre and Narrative Structure Analysis:**  Scholars of children's literature can use this dataset to study how different themes (e.g., heroism, magic, and mythical creatures) evolve over time in the fantasy genre. By comparing sentiment trends, researchers could explore how the mood of stories changes across different time periods or how specific authors or periods affect narrative structure.
 
-- Relevant Work:
+- Relevant Work: Nikolajeva, M. (2000). From Mythic to Linear: Time in Children's Literature. Scarecrow Press. This work explores how time and narrative structures are shaped in children’s literature, providing insights for genre-specific analyses.
   
 **Sentiment Analysis and Emotional Tones:**  The dataset provides sentiment analysis scores that could be used to explore how emotions are conveyed in children's fantasy books. By analyzing sentiment polarity and subjectivity, researchers can investigate whether certain emotions (e.g., hope, fear, joy, or sadness) dominate within specific themes or periods.
 
-- Relevant Work:
+- Relevant Work: Kumpulainen, K., Renlund, J., Byman, J., & Wong, C. (2021). Empathetic encounters of children’s augmented storying across the human and more-than-human worlds. International Studies in Sociology of Education, 1–23. https://doi.org/10.1080/09620214.2021.1916400
+- The study could inform this exploration, as it examines the emotional range within children’s stories and its implications on child development.
   
 **Cultural Representation and Diversity:** The dataset’s integration of diverse works of children's literature makes it a valuable resource for studying representation. Researchers can explore how different cultures and races are depicted in fantasy stories, or analyze how underrepresented groups might be reflected in or omitted from mainstream children's fantasy literature.
 
-- Relevant Work: 
+- Relevant Work: Sims Bishop, R. (1990). "Mirrors, Windows, and Sliding Glass Doors." Perspectives: Choosing and Using Books for the Classroom, 6(3), 9–11. This foundational essay discusses the importance of diversity in children's literature and provides a framework for analyzing cultural representation.
 
 **Comparative Genre Studies:** This dataset can be expanded to include works from other genres (e.g., adventure, fairy tales, and science fiction) to compare the emotional tones and narrative techniques used across genres. This would offer insights into how different genres shape childhood experiences and storytelling methods.
 
-- Relevant Work:
-- 
+- Relevant Work: Zipes, J. (2007). Why Fairy Tales Stick: The Evolution and Relevance of a Genre. Routledge. This book provides an excellent basis for comparing genres like fantasy and fairy tales in children's literature.
+
+  
 **Machine Learning Applications for Literary Analytics:** Researchers in computational literary studies or digital humanities can apply machine learning techniques, such as clustering, topic modeling, or predictive analytics, to examine how themes in children's fantasy literature have evolved, as well as to predict the success of books based on sentiment and narrative structures.
 
-- Relevant Work: 
+- Relevant Work: Jockers, M. L. (2013). Macroanalysis: Digital Methods and Literary History. University of Illinois Press. This book details computational approaches to large text corpora, providing a methodological foundation for literary datasets.
 
 # Limitations and Considerations
 
